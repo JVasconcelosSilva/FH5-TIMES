@@ -1,0 +1,182 @@
+#qtClassX{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #69b749;
+    pointer-events: none;
+}
+
+#classVhcX{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #69b749;
+    background-color:#69b749;
+    pointer-events: none;
+}
+
+#qtClassS2{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #4b58e5;
+    pointer-events: none;
+}
+
+#classVhcS2{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #4b58e5;
+    background-color:#4b58e5;
+    pointer-events: none;
+}
+
+#qtClassS1{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #8136f3;
+    pointer-events: none;
+}
+
+#classVhcS1{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #8136f3;
+    background-color:#8136f3;
+    pointer-events: none;
+}
+
+#qtClassA{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #bb3b22;
+    pointer-events: none;
+}
+
+#classVhcA{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #bb3b22;
+    background-color:#bb3b22;
+    pointer-events: none;
+}
+
+#qtClassB{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #d35926;
+    pointer-events: none;
+}
+
+#classVhcB{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #d35926;
+    background-color:#d35926;
+    pointer-events: none;
+}
+
+#qtClassC{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #e9ca32;
+    pointer-events: none;
+}
+
+#classVhcC{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #e9ca32;
+    background-color:#e9ca32;
+    pointer-events: none;
+}
+
+#qtClassD{
+    border: 3px solid;
+    border-left: 0px;
+    background-color:white;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0px 10px 10px 0px;
+    border-color: #6cb9ed;
+    pointer-events: none;
+}
+
+#classVhcD{
+    border: 3px solid;
+    color: #ffffff;
+    border-radius: 10px 0px 0px 10px;
+    font-weight: bold;
+    border-color: #6cb9ed;
+    background-color:#6cb9ed;
+    pointer-events: none;
+}
+
+#formTempo{
+    margin-top: 10px;
+    /* display: inline; */
+}
+
+#divButton{
+    text-align: center;
+    margin-top: auto;
+    padding: 0;
+}
+
+.table td, .table th {
+    vertical-align: 0%;
+    padding: 3px;
+}
+
+table{
+    border-collapse: unset;
+}
+
+th{
+    text-align: center;
+}
+
+#columnClass{
+    text-align: center;
+}
+
+#columnTime{
+    text-align: center;
+}
+
+#headerVeiculo{
+    text-align: start;
+}
